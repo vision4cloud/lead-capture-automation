@@ -16,9 +16,9 @@ That’s not just sad — it’s costly.
 # The Idea
 
 Let’s build a cloud-based “lead catcher” that:
-1. Stores every form entry safely in a database (forever).
+1. Stores every form entry safely in a database.
 2. Sends you an instant email the moment someone contacts you.
-3. Works with any website, landing page, or even Postman.
+3. Works with any website.
 
 No more leads getting lost.  
 No more manual checking.  
