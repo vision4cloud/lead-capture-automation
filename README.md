@@ -26,7 +26,8 @@ Just peace of mind.
 
 # Here’s how the automation works:
 
-![Architecture Diagram](image/lead-capture-automation-architecture.png)
+![Architecture Diagram](lead-capture-automation-architecture.png)
+
 
 # Results
 1. Every lead is stored
